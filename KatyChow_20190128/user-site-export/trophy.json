@@ -1,0 +1,14 @@
+[{
+  "achievementType" : "PERSONAL_RECORD",
+  "challengeType" : "WEEKEND",
+  "challengeName" : "Weekend Warrior",
+  "title" : "Personal Best",
+  "comment" : "17,813 steps",
+  "description" : "You’re breakin’ records like an olympian! 17,813 steps is your new record for this challenge.",
+  "timesAchieved" : 1,
+  "lastEarned" : "2018-10-15T13:01:12.042-04:00",
+  "level" : {
+    "metric" : "STEPS",
+    "value" : 17813.0
+  }
+}]

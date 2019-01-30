@@ -1,0 +1,760 @@
+[{
+  "logId" : 17426376236,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 41,
+    "name" : "very"
+  }],
+  "calories" : 264,
+  "duration" : 3072000,
+  "activeDuration" : 3072000,
+  "steps" : 4692,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/11/18 23:30:01",
+  "startTime" : "10/11/18 22:28:56",
+  "originalStartTime" : "10/11/18 22:28:56",
+  "originalDuration" : 3072000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17443481652,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 6,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 6,
+    "name" : "fairly"
+  },{
+    "minutes" : 28,
+    "name" : "very"
+  }],
+  "calories" : 194,
+  "duration" : 2663000,
+  "activeDuration" : 2663000,
+  "steps" : 3259,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/12/18 17:54:10",
+  "startTime" : "10/12/18 16:01:57",
+  "originalStartTime" : "10/12/18 16:01:57",
+  "originalDuration" : 2663000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17446624370,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 11,
+    "name" : "very"
+  }],
+  "calories" : 79,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 1400,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/12/18 21:25:38",
+  "startTime" : "10/12/18 18:57:45",
+  "originalStartTime" : "10/12/18 18:57:45",
+  "originalDuration" : 922000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17465111720,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 29,
+    "name" : "very"
+  }],
+  "calories" : 182,
+  "duration" : 2253000,
+  "activeDuration" : 2253000,
+  "steps" : 3175,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/13/18 21:33:55",
+  "startTime" : "10/12/18 23:16:18",
+  "originalStartTime" : "10/12/18 23:16:18",
+  "originalDuration" : 2253000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17465111724,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 6,
+    "name" : "very"
+  }],
+  "calories" : 63,
+  "duration" : 922000,
+  "activeDuration" : 922000,
+  "steps" : 1004,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/13/18 21:33:55",
+  "startTime" : "10/13/18 17:20:53",
+  "originalStartTime" : "10/13/18 17:20:53",
+  "originalDuration" : 922000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17465111728,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 16,
+    "name" : "very"
+  }],
+  "calories" : 96,
+  "duration" : 1126000,
+  "activeDuration" : 1126000,
+  "steps" : 1699,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/13/18 21:33:55",
+  "startTime" : "10/13/18 18:57:19",
+  "originalStartTime" : "10/13/18 18:57:19",
+  "originalDuration" : 1126000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17477009886,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 6,
+    "name" : "sedentary"
+  },{
+    "minutes" : 23,
+    "name" : "lightly"
+  },{
+    "minutes" : 8,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "calories" : 244,
+  "duration" : 3481000,
+  "activeDuration" : 3481000,
+  "steps" : 4040,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/14/18 15:45:12",
+  "startTime" : "10/13/18 20:35:27",
+  "originalStartTime" : "10/13/18 20:35:27",
+  "originalDuration" : 3481000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17809970187,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 2,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 9,
+    "name" : "fairly"
+  },{
+    "minutes" : 2,
+    "name" : "very"
+  }],
+  "calories" : 59,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 923,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/30/18 10:46:36",
+  "startTime" : "10/28/18 19:43:54",
+  "originalStartTime" : "10/28/18 19:43:54",
+  "originalDuration" : 1024000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17809970189,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 12,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "calories" : 168,
+  "duration" : 2099000,
+  "activeDuration" : 2099000,
+  "steps" : 2965,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "10/30/18 10:46:36",
+  "startTime" : "10/29/18 22:05:07",
+  "originalStartTime" : "10/29/18 22:05:07",
+  "originalDuration" : 2099000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 17998051602,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 152,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 2759,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/08/18 20:58:46",
+  "startTime" : "11/08/18 11:50:46",
+  "originalStartTime" : "11/08/18 11:50:46",
+  "originalDuration" : 1485000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18056061742,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 29,
+    "name" : "very"
+  }],
+  "calories" : 176,
+  "duration" : 1997000,
+  "activeDuration" : 1997000,
+  "steps" : 3205,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/12/18 13:42:37",
+  "startTime" : "11/11/18 20:26:38",
+  "originalStartTime" : "11/11/18 20:26:38",
+  "originalDuration" : 1997000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18313031453,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 2,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 138,
+  "duration" : 1485000,
+  "activeDuration" : 1485000,
+  "steps" : 2500,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/26/18 13:09:24",
+  "startTime" : "11/20/18 16:59:44",
+  "originalStartTime" : "11/20/18 16:59:44",
+  "originalDuration" : 1485000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18313031456,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 31,
+    "name" : "sedentary"
+  },{
+    "minutes" : 3,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 34,
+  "duration" : 2048000,
+  "activeDuration" : 2048000,
+  "steps" : 46,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/26/18 13:09:24",
+  "startTime" : "11/20/18 23:31:25",
+  "originalStartTime" : "11/20/18 23:31:25",
+  "originalDuration" : 2048000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18313031457,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 9,
+    "name" : "sedentary"
+  },{
+    "minutes" : 20,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 55,
+  "duration" : 1792000,
+  "activeDuration" : 1792000,
+  "steps" : 295,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/26/18 13:09:24",
+  "startTime" : "11/21/18 19:52:32",
+  "originalStartTime" : "11/21/18 19:52:32",
+  "originalDuration" : 1792000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18382106573,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 96,
+  "duration" : 1024000,
+  "activeDuration" : 1024000,
+  "steps" : 1736,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/29/18 18:58:54",
+  "startTime" : "11/28/18 21:11:34",
+  "originalStartTime" : "11/28/18 21:11:34",
+  "originalDuration" : 1024000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18382106574,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 4,
+    "name" : "fairly"
+  },{
+    "minutes" : 14,
+    "name" : "very"
+  }],
+  "calories" : 99,
+  "duration" : 1177000,
+  "activeDuration" : 1177000,
+  "steps" : 1801,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "11/29/18 18:58:54",
+  "startTime" : "11/29/18 18:21:20",
+  "originalStartTime" : "11/29/18 18:21:20",
+  "originalDuration" : 1177000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18422944796,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 15,
+    "name" : "very"
+  }],
+  "calories" : 130,
+  "duration" : 1690000,
+  "activeDuration" : 1690000,
+  "steps" : 2266,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/01/18 21:51:14",
+  "startTime" : "11/30/18 18:34:33",
+  "originalStartTime" : "11/30/18 18:34:33",
+  "originalDuration" : 1690000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18467338155,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 4,
+    "name" : "lightly"
+  },{
+    "minutes" : 5,
+    "name" : "fairly"
+  },{
+    "minutes" : 22,
+    "name" : "very"
+  }],
+  "calories" : 153,
+  "duration" : 1844000,
+  "activeDuration" : 1844000,
+  "steps" : 2682,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/04/18 10:31:22",
+  "startTime" : "12/02/18 18:02:59",
+  "originalStartTime" : "12/02/18 18:02:59",
+  "originalDuration" : 1844000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18535259977,
+  "activityName" : "Elliptical",
+  "activityTypeId" : 20047,
+  "activityLevel" : [{
+    "minutes" : 20,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 19,
+  "duration" : 1281000,
+  "activeDuration" : 1281000,
+  "steps" : 4,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/07/18 12:15:57",
+  "startTime" : "12/06/18 02:29:28",
+  "originalStartTime" : "12/06/18 02:29:28",
+  "originalDuration" : 1281000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18634882384,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 2,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 21,
+    "name" : "very"
+  }],
+  "calories" : 135,
+  "duration" : 1638000,
+  "activeDuration" : 1638000,
+  "steps" : 2394,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/13/18 05:02:36",
+  "startTime" : "12/11/18 21:11:12",
+  "originalStartTime" : "12/11/18 21:11:12",
+  "originalDuration" : 1638000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18758018741,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 1,
+    "name" : "lightly"
+  },{
+    "minutes" : 11,
+    "name" : "fairly"
+  },{
+    "minutes" : 18,
+    "name" : "very"
+  }],
+  "calories" : 146,
+  "duration" : 1843000,
+  "activeDuration" : 1843000,
+  "steps" : 2620,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/20/18 04:17:39",
+  "startTime" : "12/19/18 17:26:11",
+  "originalStartTime" : "12/19/18 17:26:11",
+  "originalDuration" : 1843000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18917128080,
+  "activityName" : "Sport",
+  "activityTypeId" : 15000,
+  "activityLevel" : [{
+    "minutes" : 0,
+    "name" : "sedentary"
+  },{
+    "minutes" : 15,
+    "name" : "lightly"
+  },{
+    "minutes" : 0,
+    "name" : "fairly"
+  },{
+    "minutes" : 0,
+    "name" : "very"
+  }],
+  "calories" : 44,
+  "duration" : 921000,
+  "activeDuration" : 921000,
+  "steps" : 535,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/30/18 04:31:37",
+  "startTime" : "12/23/18 19:29:05",
+  "originalStartTime" : "12/23/18 19:29:05",
+  "originalDuration" : 921000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+},{
+  "logId" : 18937379242,
+  "activityName" : "Walk",
+  "activityTypeId" : 90013,
+  "activityLevel" : [{
+    "minutes" : 1,
+    "name" : "sedentary"
+  },{
+    "minutes" : 0,
+    "name" : "lightly"
+  },{
+    "minutes" : 3,
+    "name" : "fairly"
+  },{
+    "minutes" : 16,
+    "name" : "very"
+  }],
+  "calories" : 103,
+  "duration" : 1229000,
+  "activeDuration" : 1229000,
+  "steps" : 1873,
+  "logType" : "auto_detected",
+  "manualValuesSpecified" : {
+    "calories" : false,
+    "distance" : false,
+    "steps" : false
+  },
+  "lastModified" : "12/31/18 14:15:53",
+  "startTime" : "12/31/18 13:49:04",
+  "originalStartTime" : "12/31/18 13:49:04",
+  "originalDuration" : 1229000,
+  "hasGps" : false,
+  "shouldFetchDetails" : false
+}]
