@@ -106,6 +106,7 @@ For future improvements for modeling, I recommend the following:
 5. Take more granular data overall
 6. Start to include food intake
 7. Try classification model for prediction of more or less sleep than average.
+8. Write wrapper or use DASH python package to create dashboard for sleep visualizations. 
 
 ### The Files
 
