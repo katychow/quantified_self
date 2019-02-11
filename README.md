@@ -68,7 +68,7 @@ The data is a downloadable zip file provided by Fitbit.  Fitbit also offers an A
 |Prep Type|object|How caffeine was prepared|
 |Notes|object|Notes|
 
-### The Methodologies
+### Methodology
 
 ---
 #### 1. Gather Data
@@ -89,7 +89,11 @@ One major challenge was data leakage.  Using time awake or time restless include
 ### Conclusions
 
 ---
+For the data available, modeling proved to be inconclusive due to lack of granular data.  Using the available, we can easily make a lot of statistical inferences with visualizations to be seen in the presentation.  The value in the analysis is using the code anyone can easily look at their sleep patterns.  A simple run of the data cleansing scripts will allow anyone to have data in nice dataframe to manipulate to give different inferences they are interested in.  If a user has enough data, they will be able to recycle the modeling code to model the next nights sleep or use the time series methods to look at their sleep cycle.  Overall, the objective of this project was to create usable scripts so that other people can make interesting inferences about their sleep while answering some questions presented above.  In the section below, I will answer the questions for myself.  
 
+ - Does consistently good sleep lead to more good sleep?  For me personally, sleep start time seemed to be the biggest indicator of getting enough minutes in bed and time asleep.  
+ - What other factors can impact sleep?  Caffeine for me did not have major impacts in my sleep.
+ - What should we explore next?  See section below! 
 
 ### Next Steps
 
