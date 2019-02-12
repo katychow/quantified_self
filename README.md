@@ -115,4 +115,4 @@ The files are organized in 3 folders.  Each folder has a subset of folders that 
 
 1. [Code](https://github.com/katychow/quantified_self/tree/master/Code)
 2. [Data](https://github.com/katychow/quantified_self/tree/master/Data)
-3. [Presentation Materials](https://github.com/katychow/quantified_self/tree/master/Presentation Materials)
+3. [Presentation Materials](https://github.com/katychow/quantified_self/tree/master/Presentation%20Materials)
