@@ -113,6 +113,6 @@ For future improvements for modeling, I recommend the following:
 ---
 The files are organized in 3 folders.  Each folder has a subset of folders that describe a different portion of the analysis.  Because this is a two part project each subfolder is related to a different aspect such as the dashboard creation/interactive tool, the data cleaning, or the modeling.  Within each folder, there will be another README explaining the organization of the folder. 
 
-1. Code
-2. Data
-3. Presentation Materials
+1. [Code](https://github.com/katychow/quantified_self/tree/master/Code)
+2. [Data](https://github.com/katychow/quantified_self/tree/master/Data)
+3. [Presentation Materials](https://github.com/katychow/quantified_self/tree/master/Presentation Materials)
