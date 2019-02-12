@@ -1,0 +1,54 @@
+Date,Time,Type,Volume (oz),Kind,Prep Type,Notes,isDecaf,caffeine_mgs
+1/7/19,9:00 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/7/19,4:00 PM,Tea,12.0,TJs matcha,Matcha,,0,60.0
+1/8/19,8:30 AM,Coffee,16.0,Critical Mass,Coffee,,0,330.0
+1/8/19,4:15 PM,Coffee,2.0,Dancing Goats Decaf,Espresso,,1,16.0
+1/9/19,8:50 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/9/19,12:00 PM,Tea,12.0,TJs matcha,Matcha,,0,60.0
+1/10/19,9:00 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/10/19,4:00 PM,Coffee,2.0,Spiller Park Decaf,Espresso,,1,16.0
+1/11/19,6:15 AM,Coffee,16.0,Critical Mass,Coffee,,0,330.0
+1/12/19,9:00 AM,Coffee,2.0,Columbia,Nespresso,,0,65.0
+1/12/19,12:00 PM,Coffee,16.0,Critical Mass,Coffee,,0,330.0
+1/13/19,9:00 AM,Coffee,8.0,Critical Mass,Coffee,,0,165.0
+1/13/19,3:00 PM,Coffee,10.0,Charleston ,Coffee,,0,206.25
+1/14/19,8:00 AM,Coffee,12.0,Charleston ,Coffee,,0,247.5
+1/15/19,9:00 AM,Coffee,12.0,Charleston ,Coffee,,0,247.5
+1/15/19,2:00 PM,Coffee,16.0,Farm To Ladel,Coffee,,0,330.0
+1/16/19,9:30 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/16/19,2:00 PM,Coffee,10.0,Farm To Ladel,Coffee,,0,206.25
+1/17/19,9:00 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/18/19,9:00 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/18/19,10:00 PM,Wine,3.0,Tempernillo,None,,0,0.0
+1/18/19,9:00 PM,Wine,3.0,Brut,None,,0,0.0
+1/19/19,7:00 AM,Coffee,16.0,Critical Mass,Coffee,,0,330.0
+1/19/19,5:00 PM,Coffee,2.0,Chattahooche,Espresso,,0,150.0
+1/20/19,10:00 AM,Coffee,16.0,Critical Mass,Coffee,,0,330.0
+1/21/19,8:00 AM,Coffee,8.0,Charleston ,Coffee,,0,165.0
+1/21/19,10:00 AM,Tea,8.0,Organic Mighty Leaf Matcha,Matcha,,0,40.0
+1/21/19,6:00 PM,Coffee,2.0,Decaf Arpeggio,Nespresso,,1,10.0
+1/22/19,8:00 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/22/19,12:00 PM,Coffee,8.0,Organic Kirkland,Coffee,,0,165.0
+1/22/19,2:00 PM,Coffee,2.0,Spiller Park Decaf,Espresso,,1,16.0
+1/23/19,8:45 AM,Coffee,10.0,Critical Mass,Coffee,,0,206.25
+1/23/19,2:15 PM,Cocoa,12.0,Starbucks,Cocoa,,0,105.0
+1/24/19,8:00 AM,Coffee,4.5,Kazaar,Nespresso,,0,146.25
+1/25/19,5:00 AM,Coffee,8.0,Critical Mass,Coffee,,0,165.0
+1/25/19,8:30 AM,Coffee,1.0,Octane,Espresso,,0,75.0
+1/25/19,9:00 AM,Coffee,2.0,Octane,Latte,,0,31.5
+1/25/19,1:00 PM,Coffee,2.0,Decaf Arpeggio,Nespresso,,1,10.0
+1/25/19,4:00 PM,Coffee,8.0,Charleston ,Coffee,* No fit bit slept 12:30AM to 5:50 AM,0,165.0
+1/25/19,7:00 PM,Wine,3.0,Chardonnay,None,,0,0.0
+1/25/19,7:15 PM,Wine,3.0,Tempernillo,None,,0,0.0
+1/26/19,9:00 AM,Tea,10.0,Mighty Leaf Matcha,Matcha,,0,50.0
+1/26/19,2:00 PM,Coffee,2.0,Decaf Arpeggio,Nespresso,,1,10.0
+1/27/19,10:00 AM,Tea,12.0,Mighty Leaf Matcha,Matcha,,0,60.0
+1/27/19,11:15 AM,Coffee,2.0,Decaf Arpeggio,Nespresso,,1,10.0
+1/27/19,2:20 PM,Coffee,12.0,Decaf Americano,Espresso,,1,96.0
+1/28/19,8:25 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/28/19,10:00 AM,Tea,12.0,Ito En Matcha,Matcha,,0,60.0
+1/29/19,8:45 AM,Coffee,12.0,Critical Mass,Coffee,,0,247.5
+1/29/19,1:00 PM,Tea,12.0,Mighty Leaf Matcha,Matcha,,0,60.0
+1/29/19,4:00 PM,Coffee,4.0,Decaf Arpeggio,Nespresso,,1,20.0
+1/30/19,8:30 AM,Coffee,14.0,Critical Mass,Coffee,,0,288.75
+1/30/19,2:00 PM,Coffee,10.0,Farm To Ladel,Coffee,,0,206.25
